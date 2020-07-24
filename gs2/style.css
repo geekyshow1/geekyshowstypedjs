@@ -1,0 +1,16 @@
+body {
+  background-image: url("photo.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+div h2 {
+  margin-top: 500px;
+  text-align: center;
+  font-size: 5em;
+}
+
+div h2 span {
+  color: crimson;
+}
